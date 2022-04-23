@@ -1,0 +1,36 @@
+1	Alberto José Guzmán Beltre
+2	Andersson Hipolito Beltre Morillo
+3	Angel Manuel Valdez Santos
+4	Angel Medrano Acevedo
+5	Anjeisi Ivelisse Acosta Carvajal
+6	Braylin Ovalles
+7	Carlos Gabriel Sanchez Delgado
+8	Carlos Rafael Salazar Delgado
+10	César Alberto Flores Pérez
+11	Chamyl Camila Nova Ciprian
+12	Dania Nicaury Sierra Soriano
+13	Dariel Eduardo Restituyo Polanco
+14	Darlin de la Nieve de los Santos
+15	Dawerky Mercedes Lopez
+17	Elian Manuel Encarnacion Almonte
+18	Eliot Nicolas Santos Cabral
+19	Elvis Junior Villanueva Musseb
+20	Esmeralda Delgado Mejia
+21	Estefani Eridania Soto De Los Santos
+22	Franklin Omar Disla del Orbe
+23	Freddy de Jesus Villar Burgos
+25	Isaac Rafael Garabito Rosa
+26	Jeremy Bourdier Estrella
+27	Jesus Alexader Dotel Tavarez
+28	Jose Angel Garcia Mendez
+30	Kedin Yunior Mateo Cadete
+31	Luis Alberto Pichardo Hilario
+32	Luis Angel De La Cruz Castro
+33	Luis Angel Perez Ramos
+34	Melida Mel Piña Acosta
+36	Rafael Ariel Custodio Guillen
+37	Ranses Bourdierd
+38	Stward Ivanovich García Gómez
+40	Willenson Rafael Guillen Inirio
+41	Wilmer Daniel Carela Moquete
+42	Yuliana Amanecer Zorrilla Castro
